@@ -1,0 +1,34 @@
+body {
+  margin: 0 0;
+}
+
+.lasanga {
+  width: 100vh;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+.lasanga div {
+  display: inline-block;
+  text-align: center;
+  vertical-align: 300px;
+  font-size: 1.5em;
+  float:left;
+}
+
+.lasanga div p {
+  margin: 0 0;
+  display: table-cell;
+  vertical-align: middle;
+  height: 20vh;
+  width: 20vh;
+}
+
+.yellow {
+  background: #ffcf73;
+  color: #6b8fd4;
+}
+.blue {
+  background: #6b8fd4;
+  color: #ffcf73;
+}

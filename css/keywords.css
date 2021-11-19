@@ -1,0 +1,33 @@
+body {
+  background: #F5F5F5;
+}
+div{
+  background: #E1E1E1;
+}
+h1 {
+  display: inline-block;
+  background: #ED8F04;
+  text-transform: uppercase;
+  font-size: 17px;
+  padding: 8px 8px 9px 8px;
+  color: White;
+  margin: 0;
+  border: 1px solid #DFDFDD;
+  border-bottom: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+ul {
+  background: White;
+  margin: 0;
+  padding: 10px 0;
+}
+li {
+  display: inline;
+  padding-left: 10px;
+  
+}
+a {
+  color:#403E3C;
+  font-size: 16.5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
