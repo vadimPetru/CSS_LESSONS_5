@@ -6,7 +6,7 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 900;
   
-  padding: 12px 0 10px 0;
+  padding: 12px 2px 9px 0;
   color: #404243;
   margin: 0;
   border: 1px solid #DFDFDD;
@@ -22,17 +22,15 @@ ul {
 li {
   list-style: none;
   border-bottom: 1px solid #DFDFDD;
-  padding: 10px 0 5px 0;
+  padding: 7px 0 6px 0;
   text-align: justify;
 }
 a {
   text-decoration: none;
-  font-family: Arial, Helvetica, sans-serif;
-  letter-spacing: 1px;
-  font-weight: bold;
+  font-family: Verdana;
   color: #5A4B54;
   padding-left: 13px;
-  font-size: 19px;
+  font-size: 20px;
   display: block;
 }
 li:hover,
