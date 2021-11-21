@@ -1,5 +1,4 @@
 body {
-  overflow-y: hidden;
   margin: 0 0;
 }
 
@@ -14,12 +13,10 @@ body {
   
   display: inline-block;
   text-align: center;
-  vertical-align: 300px;
   float:left;
 }
 
 .lasanga div p {
-  
   margin: 0 0;
   display: table-cell;
   vertical-align: middle;
