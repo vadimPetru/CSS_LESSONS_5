@@ -1,27 +1,30 @@
 body {
-  margin: 0 0;
+  margin: 0 ;
+  overflow: hidden;
+  
 }
 
 .lasanga {
- 
+  margin: 0 auto;
   width: 100vh;
   height: 100vh;
-  margin: 0 auto;
 }
 
 .lasanga div {
-  
   display: inline-block;
   text-align: center;
   float:left;
+  height: 20vh;
+  width: 20vh;
 }
 
 .lasanga div p {
-  margin: 0 0;
+  margin: 0;
   display: table-cell;
   vertical-align: middle;
   height: 20vh;
   width: 20vh;
+  font-size: clamp(1px, 20vh, 25px);
 }
 
 .yellow {
